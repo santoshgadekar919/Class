@@ -62,4 +62,6 @@ public class WebTableFreeCRM {
 		JavascriptExecutor js=((JavascriptExecutor) Driver);
 		js.executeScript("arguments[0].click();", element);
 	}
+	
+//	This is the program for Webtable at FREECRM Website
 }
